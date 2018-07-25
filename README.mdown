@@ -1,3 +1,7 @@
+**This project is not actively maintained.** The last commit (other than the commit adding this message) was on 1 March, 2014. The source code and PyPI packages are still available, but I strongly recommend against using this for new projects.
+
+---
+
 # django-icybackup
 
 Back up your databases and media directory to a local file/directory or Amazon Glacier. Works with PostgreSQL, MySQL and sqlite.
